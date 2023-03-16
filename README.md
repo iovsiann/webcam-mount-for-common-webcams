@@ -1,8 +1,8 @@
 # handy-webcam-holder
 Handy webcam holder for Voron 2.4, 3D printers using 2020 extrusions - fits common webcam that have a horizontal tube-like hole in the back.
 
-![Photo of handy webcam holder mounted on Voron 2.4R2](Images/webcam_photo1.jpg)
 ![Photo of handy webcam holder mounted on Voron 2.4R2](Images/webcam_photo2.jpg)
+![Photo of handy webcam holder mounted on Voron 2.4R2](Images/webcam_photo1.jpg)
 
 1. Print the parts
 2. Mount the camera using a piece of 1.75 filament
